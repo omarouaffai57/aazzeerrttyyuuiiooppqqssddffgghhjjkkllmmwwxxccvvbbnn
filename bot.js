@@ -217,7 +217,7 @@ client.on('message', message => {
 
  message.author.sendMessage(`
  **
-__~~Games Station Arabic Bot~~__ By: Omar
+__~~Bot~~__ By: Omar
 
 ╔[❖════════════❖]╗
              Prefix = ' £ '
@@ -250,18 +250,8 @@ __~~Games Station Arabic Bot~~__ By: Omar
                     Welcome
 ╚[❖════════════❖]╝
 
-to enable welcome message do channel name "welcome"
 
 
-==================================================================
-
-Server support: https://discord.gg/MCxDhVr
-
-==================================================================
-
-bot invite link: https://discordapp.com/oauth2/authorize?client_id=471326995469434880&permissions=8&scope=bot
-
-==================================================================
 **
 `);
 
